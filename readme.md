@@ -27,12 +27,7 @@ php artisan db:seed
 ```
 5. App is ready you can run `php artisan serve` and run the demo
 ----
-### Youtube like app with Vue.js and Laravel
-To follow tutorial of building this app visit [here](youtube-like-app-with-vue-js-and-laravel)
 
-### Create REST API with authentication using Laravel Passport
-Create REST API with authentication using Laravel Passport for a youtube like app using vue.js as front end.
- Tutorial is covered [here](http://www.qcode.in/create-rest-api-authentication-using-laravel-passport/)
 
 ## About Laravel
 
