@@ -3,7 +3,7 @@
 ### Installation 
 1. To install this app clone the repo 
 ```
-git clone https://github.com/saqueib/qtube.git
+git clone https://github.com/Stdubic/API-.git
 cd qtube
 ```
 2. Install the dependencies
