@@ -4,7 +4,7 @@
 1. To install this app clone the repo 
 ```
 git clone https://github.com/Stdubic/API-.git
-cd qtube
+cd API-
 ```
 2. Install the dependencies
 ```
